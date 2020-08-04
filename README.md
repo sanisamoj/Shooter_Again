@@ -1,2 +1,2 @@
 # Shooter_Again
-Primeiro jogo Mobile, utilizando Unity.
+Primeiro jogo Mobile, utilizando Unity!
