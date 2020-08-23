@@ -1,2 +1,2 @@
-# Shooter_Again
+# SurviveAliens
 Primeiro jogo Mobile, utilizando Unity.
